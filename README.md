@@ -4,7 +4,7 @@
   
 In this paper, inspire by [DANet](https://arxiv.org/pdf/1809.02983.pdf) and [CCNet](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.pdf). We introduce the channel and spatial attention to the Feature Pyramid Network for the instance segmentation of group pigs. We explored the performance difference between these two types of attention and the other existing attentions. At the same time, we discussed the introduction of different levels of spatial attention, which proved the practicality of the two types of attention information in the segmentation of live pigs in different scenarios.
 
-You can see the predict demo video in the folder **img/1.video**.
+You can see the predict demo video in the folder **img/1.mp4**.
 ## Install Dependencies
 ```
 conda create -n env_pig
