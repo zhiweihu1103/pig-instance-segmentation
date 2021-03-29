@@ -1,6 +1,6 @@
 # pig-instance-segmentation
 ## Description
-<tab><tab>This is the implementation code of our paper named Dual Attention-guided Feature Pyramid Network for Instance Segmentation of Group Pigs
+This is the implementation code of our paper named *Dual Attention-guided Feature Pyramid Network for Instance Segmentation of Group Pigs
   
 In this paper, inspire by [DANet](https://arxiv.org/pdf/1809.02983.pdf) and [CCNet](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.pdf). We introduce the channel and spatial attention to the Feature Pyramid Network for the instance segmentation of group pigs. We explored the performance difference between these two types of attention and the other existing attentions. At the same time, we discussed the introduction of different levels of spatial attention, which proved the practicality of the two types of attention information in the segmentation of live pigs in different scenarios.
 
