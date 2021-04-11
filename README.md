@@ -59,7 +59,6 @@ Besides, if you want to predict the video, you can also find the code in the inf
 - **DAB:** at the path of mmdet\models\attentions\cs_attention.py
 - **ACU:** the Asymmetric Convolution Unit can find at the file mmdet\models\necks\fpn.py
 
-In order to switch different attention modules, you need to modify different comment modules in the mmdet\models\necks\fpn.py code. Besides, for test the different number of spatial attention blocks's performance, you should modify the fpn.py in line 167, to modify the recurrence value from one to four.
 ## Konwledgement
 Our code is developed based on mmdetection framework. In the attention module part, we refer to the following link content, thank the authors for their hard work.
 - https://github.com/open-mmlab/mmdetection
